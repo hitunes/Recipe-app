@@ -1,0 +1,33 @@
+.logo {
+    font-size: 26px;
+    font-weight: 600;
+    color: whitesmoke;
+}
+
+.navwrapper {
+    background-color: grey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.ul-list {
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+    align-items: center
+}
+
+.link-right {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+}
+
+a {
+    cursor: pointer;
+}
+
+a:hover {
+    color: #eee
+}
